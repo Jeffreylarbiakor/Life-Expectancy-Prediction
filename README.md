@@ -16,7 +16,11 @@ Below are the sections of this documentation
 - [Contributors](#contributors)
 
 ## Introduction
-The Life Expectancy Dataset originated from the Global Health Observatory, which monitors the health status of Countries. Initial observations show that 'Developed' countries have better outcomes across most attributes in the dataset, and have a reduced healthcare expenditure (this may be a result of a larger GDP)
+The Life Expectancy Dataset originated from the Global Health Observatory, which monitors the health status of Countries. Initial observations show that 'Developed' countries have better outcomes across most attributes in the dataset, and have a reduced healthcare expenditure (this may be a result of a larger GDP). There are various attributes to analyze within the dataset. The following are some of the primary ones which were used throughout the analysis:
+* Status
+* Infant Deaths and Under-five Deaths
+* Hepatitis B, Diptheria and HIV/AIDS
+* Schooling
 
 ## Hypothesis
 
