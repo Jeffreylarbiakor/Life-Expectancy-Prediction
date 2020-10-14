@@ -10,7 +10,7 @@ Below are the sections of this documentation
 
 - [Introduction](#introduction)
 - [Hypothesis](#hypothesis)
-- [Understanding The Data]{#understanding-the-data)
+- [Understanding The Data](#understanding-the-data)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusion](#conclusion)
 - [Contributors](#contributors)
