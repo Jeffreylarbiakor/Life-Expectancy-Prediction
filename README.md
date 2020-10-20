@@ -7,7 +7,7 @@ The Life Expectancy Dataset originated from the Global Health Observatory, which
 
 ### Table of Contents
 Below are the sections of this documentation
-
+ 
 - [Introduction](#introduction)
 - [Hypothesis](#hypothesis)
 - [Understanding The Data](#understanding-the-data)
